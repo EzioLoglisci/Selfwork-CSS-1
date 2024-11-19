@@ -1,0 +1,23 @@
+* {
+    font-family: "Ubuntu", sans-serif;}
+
+h1,h2,h3 {
+    font-family: "Black Ops One", system-ui;
+    color: #FF2400;
+}
+
+.nav{
+    background-color: #FF2400;
+    
+}
+
+header:hover {
+    background-color: #FFC72C;
+}
+
+.image {
+
+    background-image: url("	https://aulab.it/wp-content/uploads/2023/04/aulab-logo.svg");
+    background-repeat: no-repeat;
+
+}
